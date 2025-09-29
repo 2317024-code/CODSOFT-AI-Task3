@@ -1,0 +1,10 @@
+Welcome to the image captioning system
+Give the image file in jpg/png format only
+
+Enter the image path / 'quit' to exit: image.jpg
+Processing image...
+2025-09-29 21:39:06.140597: E tensorflow/core/util/util.cc:131] oneDNN supports DT_BOOL only on platforms with AVX-512. Falling back to the default Eigen-based implementation if present.
+Caption: is with grass a eating dog a with eating is
+
+Enter the image path / 'quit' to exit: quit
+Goodbye!
